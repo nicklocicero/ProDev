@@ -5,7 +5,8 @@
   xmlns:tools="http://schemas.android.com/tools"
   android:layout_width="match_parent"
   android:layout_height="match_parent"
-  tools:context="edu.cnm.deepdive.nicklocicero.prodev.MainActivity">
+  tools:context="edu.cnm.deepdive.nicklocicero.prodev.MainActivity"
+  android:background="#00F">
 
   <TextView
     android:id="@+id/title"
@@ -17,7 +18,8 @@
     app:layout_constraintBottom_toTopOf="@+id/text_scroll"
     app:layout_constraintLeft_toLeftOf="parent"
     app:layout_constraintRight_toRightOf="parent"
-    app:layout_constraintTop_toTopOf="parent"/>
+    app:layout_constraintTop_toTopOf="parent"
+    android:textColor="#FFF"/>
 
   <ScrollView
     android:id="@+id/text_scroll"
@@ -35,6 +37,7 @@
     app:layout_constraintLeft_toLeftOf="parent"
     app:layout_constraintRight_toRightOf="parent"
     app:layout_constraintTop_toTopOf="@id/text_scroll"
+    android:textColor="#FFF"
     />
   </ScrollView>
 
