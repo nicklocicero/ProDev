@@ -1,20 +1,25 @@
 <resources>
   <string name="app_name">Pro Dev</string>
   <string name="pro_dev">Pro Dev!</string>
-  <string name="prodev_learn">Pro-dev feedback. I was working with the team and it was great to
-    play the forbidden island game with the mindset how do I impact the team. I have learned so
-    far it’s best to pretend I’m playing basketball with my team. Since this is an intellectual
-    venture, highly creative, it’s easy to want to manage things. But in basketball I work to help
-    set things up to score points as many points as possible (by whoever can make them), and try to keep a general team camaraderie for fun
-    and recreation. Anyway, I am learning that sometimes it’s best for me to take something and
-    get it done and the check back in with the team to see how I can help. That way things grow
-    organically rather than me trying to help with everything. Am I supposed to add that to the
-    prodev android app? The doing things and taking initiative is like driving for a layup, myself.
-    But I also don’t run over to a teammate hen he’s shooting and help him shoot his or her basket.
-    All I should do is encourage him to take the shot, which makes it much easier for him to feel
-    confident and do something wholeheartedly without having to worry about someone else hoping he
-    gets it right or now. Less pressure and more results.\n\nThe demo day (well, demo evening) was great! I feel so charged and energized by it. :) I met many great people. Dan said to me, Nick, my brain is just too fried to answer any of your questions right now. But, go ask Sebastian. He can tell you. So, I did! And guess what! I began my question. My quest is driven by the question: How do employeers make the decision to hire someone? This question is very tricky because it is not about what makes them make the decision or why they make the decision. It\'s deeper than that. Dan is like the sensei. He knew to tell me, Nick, this question is the answer to your journey. I learned last night that every journey can only be answered by question. An answer always ends a journey unless it asks another question. Thanks to Dan being mysterious and helping me see that it is the journey that I am embarking on and that it gives me something to talk about and search for when I network, I know I will have a lot to say and questions to ask and be curious about. Sometimes I get nervous at mixers and events because I don\'t know what to say, but thanks to this insight, I now see that having a question can lead me into a mysterious journey at an event and take me to the place I am searching for. Have a question, don\'t have an answer. Also, one person says he hires people not skills. He doesn\'t hire skills and put them in a closet to do their thing. He hires people who can communicate and work on a team. People that can learn and have skills. But not necessarily skills, *people* who have skills. So that was good, but best of all, it\'s the question that drives us and allows us to do things at the mixers and networking events.\n\nSometimes I feel really stupid.  Not with knowing the material.  Today I got a perfect score on the test.  I am always really good at learning the details, mastering the concepts, etc. and being so good at that makes me feel normalized to that kind of success.  In teams, I\'m not the best at it.  I\'m not horrible about it, but I am opinionated and competitive.  I feel some anxiety about how I\'d work on a real dev team.  I would probably be fine and certainly would pull my own weight, but I may take some things too personally or disagree with how things were being done (especially if I was right).  That could be an issues.  I know the Scrum and Agile methodologies have ways to encourage things to improve.  Kanban for instance, lets workers be responsible for what they do. I think I will succeed with those kinds of things and having the restraints loosened to let me do my best and work freely.  I have a lot of ideas and want to do them all.  I don\'t know if I should always know why things are being done, though.  I don\'t mind doing somethings at times, but sometimes I think things are being done wrong and get very opinionated about that.
-    \n\n6/18/18, update on homework and assignments
-    \n\nClass is easy and Nick (the teacher) says I am way ahead of the other students.  I got a perfect score on the test and 198&#37; on the practical part of the exam thanks to acing the extra credit. I was thinking of taking the Angular/PHP bootcamp after this, if I could get it funded, but I think that would be a waste of time and too easy.
+  <string name="prodev_learn">
+    xmlns:android="http://schemas.android.com/apk/res/android"</string>
+  <string name="golden_circles_title">Golden Circles!</string>
+  <string name="golden_circles_description">
+    Why? Make money and do something good!\n
+    How? Make cool, interesting, and better products than what\'s available.\n
+    What? Leveraging general coding and hacking skills so that I can be a ninja in any type of development. From Cassandra to Angular, Enterprise Java to Python and Flask!</string>
+  <string name="qualitative_quantitative_text">
+    3 Quantitative Accomplishments of mine:\n
+    \t\tI am at level Captain on CodeFights and have won over 70 tournaments\n
+    \t\tI amm trained by the SPCA to help abused animals learn to trust people again\n
+    \t\tI have reviewed over 800 Udacity Student Projects for Full-stack Web Dev and Android Nanodegrees\n\n
+
+    3 Qualities I Possess:\n
+    \t\tExpressive, enjoy the process of expressing ideas and ideas in general (may philosophize too much =P)\n
+    \t\tCurious, makes it easy to learn things (can fall down Wikipedia rabbit holes)\n
+    \t\tThorough, love spending time in the state of flow, creating (not too attentive to deadlines)\n\n
+
+    I am definitely more Right Brained, however I am much more cerebral than limbic.  I enjoy the state of flow.  That creativity and being in the moment is awesome!
   </string>
+  <string name="qualitative_vs_quantitative_title">Qualitative VS Quantitative</string>
 </resources>
