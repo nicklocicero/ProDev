@@ -20,14 +20,6 @@ public class MainActivity extends AppCompatActivity {
   private ListView mPageView;
   private PageAdapter mAdapter;
 
-  private List<Page> mPagesList = new ArrayList<>();
-  private Page[] pages = {
-      new Page(R.string.golden_circles_title, R.string.golden_circles_date,
-          R.string.golden_circles_text, R.drawable.golden_circles),
-      new Page(R.string.qualitative_quantitative_title, R.string.qualitative_quantitative_date,
-          R.string.qualitative_quantitative_text, R.drawable.qualitative_quantitative),
-  };
-
   @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
@@ -35,12 +27,24 @@ public class MainActivity extends AppCompatActivity {
 
     mPageView = findViewById(R.id.pages_list);
 
-    for (Page page : pages) {
-      mPagesList.add(page);
-    }
+    List<Page> mPagesList = new ArrayList<>();
+    mPagesList.add(
+        new Page(R.string.golden_circles_title,
+            R.string.golden_circles_date,
+            R.string.golden_circles_text,
+            R.drawable.golden_circles));
+    mPagesList.add(
+        new Page(R.string.qualitative_quantitative_title,
+            R.string.qualitative_quantitative_date,
+            R.string.qualitative_quantitative_text,
+            R.drawable.qualitative_quantitative));
+    mPagesList.add(
+        new Page(R.string.community_title,
+            R.string.community_date,
+            R.string.community_text,
+            R.drawable.community));
 
     mAdapter = new PageAdapter(this, mPagesList);
-
     mPageView.setAdapter(mAdapter);
 
   }

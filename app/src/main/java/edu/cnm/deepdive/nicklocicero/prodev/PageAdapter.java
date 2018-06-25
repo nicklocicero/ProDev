@@ -37,7 +37,7 @@ public class PageAdapter extends ArrayAdapter<Page> {
     Page currentPage = pagesList.get(position);
 
     TextView title = (TextView) listItem.findViewById(R.id.page_title);
-    title.setText(currentPage.getTextResId());
+    title.setText(currentPage.getTitleResId());
 
     TextView date = (TextView) listItem.findViewById(R.id.page_date);
     date.setText(currentPage.getDateResId());
@@ -46,7 +46,7 @@ public class PageAdapter extends ArrayAdapter<Page> {
     image.setImageResource(currentPage.getImageId());
 
     TextView text = (TextView) listItem.findViewById(R.id.page_text);
-    date.setText(currentPage.getTextResId());
+    text.setText(currentPage.getTextResId());
 
     return listItem;
   }
