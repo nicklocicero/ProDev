@@ -1,13 +1,15 @@
 <resources>
   <string name="app_name">Pro Dev</string>
-  <string name="pro_dev">Pro Dev!</string>
-  <string name="prodev_learn">
-    xmlns:android="http://schemas.android.com/apk/res/android"</string>
+  <string name="app_title">Pro Dev!</string>
   <string name="golden_circles_title">Golden Circles!</string>
-  <string name="golden_circles_description">
-    Why? Make money and do something good!\n
-    How? Make cool, interesting, and better products than what\'s available.\n
-    What? Leveraging general coding and hacking skills so that I can be a ninja in any type of development. From Cassandra to Angular, Enterprise Java to Python and Flask!</string>
+  <string name="golden_circles_date">6/18/2018</string>
+  <string name="golden_circles_text">
+    Hi, I\'m Nick.  I love interface design and development because I love actualizing the power of great code.  I\'m doing this through native mobile app development and front-end development.  Have you worked on something related to UI/UX?\n\n
+    Hi, my name\'s Nick.  I love learning new technologies because I love building things in new and improved ways.  Right now I\'m learning Spring, Java, Android and Rest APIs.  Do you have any cool internships where I could get some hands on experience in a popular new technology?\n\n
+    Hey, Nick LoCicero!  I\'m creating helping get better technology in the hands of small businesses because it can make a big difference to local communities in both economic development and community happiness.  I\'m taking the Deepdive Coding Bootcamp in Java-Android-Salesforce and making my own projects to learn these skills.  Do you know of a small business that wants to collaborate and implement some awesome tech for its customers and community?
+  </string>
+  <string name="qualitative_quantitative_title">Quantitative ~ Qualitative</string>
+  <string name="qualitative_quantitative_date">6/18/2018</string>
   <string name="qualitative_quantitative_text">
     3 Quantitative Accomplishments of mine:\n
     \t\tI am at level Captain on CodeFights and have won over 70 tournaments\n
@@ -19,7 +21,6 @@
     \t\tCurious, makes it easy to learn things (can fall down Wikipedia rabbit holes)\n
     \t\tThorough, love spending time in the state of flow, creating (not too attentive to deadlines)\n\n
 
-    I am definitely more Right Brained, however I am much more cerebral than limbic.  I enjoy the state of flow.  That creativity and being in the moment is awesome!
+    I am definitely more Right Brained, however I am much more cerebral than limbic.  I enjoy the state of flow.  That creativity and being in the moment is awesome!\n\n
   </string>
-  <string name="qualitative_vs_quantitative_title">Qualitative VS Quantitative</string>
 </resources>
